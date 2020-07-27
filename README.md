@@ -6,8 +6,7 @@ website for fictional studio called delani
 Name:joyce wamocho
 
 ### Setup instructions:
-used terminal to create files and folders,then atom to work on css,javascript,Bootstrap and jquery,then stored my project in github repository.
-
+used terminal to create files and folders,then atom to work on css,javascript,Bootstrap and jquery,then stored my project in github repo
 
 ## What I Used
 html
