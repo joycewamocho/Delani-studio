@@ -1,4 +1,4 @@
-#Delani Studio
+# Delani Studio
 
 ## Project description:
 website for fictional studio called delani
@@ -15,8 +15,8 @@ javascript
 jquery
 bootstrap
 
-##live link
-file:///home/wamocho/wk3Ip/index.html
+## live link
+[Demo]( https://joycewamocho.github.io/Delani-studio/. )
 
 #### contact details
 phone number:0797737857
